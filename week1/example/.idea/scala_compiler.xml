@@ -2,5 +2,8 @@
 <project version="4">
   <component name="ScalaCompilerConfiguration">
     <profile name="sbt 1" modules="example,example_3852" />
+    <profile name="sbt 2" modules="bigdata-example">
+      <option name="deprecationWarnings" value="true" />
+    </profile>
   </component>
 </project>
